@@ -1,1 +1,2 @@
 The goal with this project was to recreate an assignment I did in my Orbital Mechanics 2 course. The project objective is to use NASA JPL ephemeris data to create a realistic preliminary mission design to take a spacecraft from Earth to Mars. We used MATLAB for this assignment, so my objective here was to redo it entirely in Python. 
+Further clarifications/explanations can be found in the description portion of the commit message for each different script utilized in the project.
